@@ -1,2 +1,6 @@
 __pycache__/
 .ipynb_checkpoints/
+X_train.pickle
+y_train.pickle
+X_test.pickle
+y_test.pickle
