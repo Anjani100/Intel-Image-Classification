@@ -11,4 +11,15 @@ The following packages are used in this entire project:
 
 ## The Plan
 
-* Firstly, we are going to build up a Neural Network from scratch and observe our model's performance.
+* Firstly, I am going to build up a Neural Network from scratch and observe our model's performance. For this, I have built a 2-layer neural network and an L-layer neural network separately.
+
+## Dataset
+
+The dataset can be found at the following [link](https://www.kaggle.com/puneet6060/intel-image-classification). You can find the entire description of the dataset there.
+
+## Training the Neural Network
+
+### Preprocessing
+
+The first step in any machine learning problem is to preprocess the data and make it ML-ready. The preprocessing steps are as follows:
+* Grab the images from the directory (in which you have stored them) and convert them to array using OpenCV.
